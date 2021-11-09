@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Horoscope", "Horoscope\Horoscope.csproj", "{521CBF5E-6AE6-420C-9BCC-41197C376D93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorsPersonalityTest", "ColorsPersonalityTest\ColorsPersonalityTest.csproj", "{F37E93F4-6425-4C49-A35D-52F515298423}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{521CBF5E-6AE6-420C-9BCC-41197C376D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{521CBF5E-6AE6-420C-9BCC-41197C376D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{521CBF5E-6AE6-420C-9BCC-41197C376D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{521CBF5E-6AE6-420C-9BCC-41197C376D93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F37E93F4-6425-4C49-A35D-52F515298423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37E93F4-6425-4C49-A35D-52F515298423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37E93F4-6425-4C49-A35D-52F515298423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37E93F4-6425-4C49-A35D-52F515298423}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2C3DC8B-3D7F-4837-8215-AD21B15EA062}
+	EndGlobalSection
+EndGlobal
